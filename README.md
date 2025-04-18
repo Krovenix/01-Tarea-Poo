@@ -7,3 +7,7 @@
   - Khiart: Enrique Manzano [P 200]
   - Krovenix: Yair Flores [P 200]
 
+## Prerequisitos
+
+  - Java versión 21.0.6 (openjdk)
+
