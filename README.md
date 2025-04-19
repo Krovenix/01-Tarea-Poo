@@ -1,6 +1,6 @@
 # Tarea 1 POO
 
-## Integrantes:
+## Integrantes
 
   - Ruller1: Nicolas Sepulveda [P 200]
   - tomyssm: Tomas Salinas [P 200]
