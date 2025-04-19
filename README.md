@@ -11,3 +11,16 @@
 
   - Java versión 21.0.6 (openjdk)
 
+## Status
+
+  - 1. Etapa 3.1 (Actual)
+    - Copiando Código Guia
+    - Distribución de trabajo
+
+  - 2. Etapa 3.2
+
+  - 3. Etapa 3.3
+
+  - 4. Etapa 3.4
+
+  - 5. Etapa 3.5
